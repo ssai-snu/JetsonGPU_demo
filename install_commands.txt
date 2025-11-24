@@ -1,0 +1,2 @@
+sudo apt-get install libglu1-mesa libxi-dev libxmu-dev libglu1-mesa-dev -y
+sudo apt-get install freeglut3 freeglut3-dev -y
